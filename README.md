@@ -22,7 +22,7 @@ Administration -> Media types -> Telegram
 ![image](https://user-images.githubusercontent.com/29035011/126059700-61330f1e-1804-4a29-afd7-8e6824d50deb.png)
 
 ### Create Items (ICMP PING)
-![image](https://user-images.githubusercontent.com/29035011/126059726-7f157c04-ec45-4060-b394-942579ebfd2f.png)
+![image](https://user-images.githubusercontent.com/29035011/126060099-c50c3e79-d24e-48c1-9c6d-5253b4f7b178.png)
 
 ###
 ```
@@ -31,7 +31,6 @@ Key (icmpping)
 Host Interface (IP Target)
 ```
 ![image](https://user-images.githubusercontent.com/29035011/126059812-44c6d1bc-4f40-4965-a62a-acf740cca06e.png)
-
 
 ### Create Triggers
 ![image](https://user-images.githubusercontent.com/29035011/126059974-3519f04e-77a8-4c2a-a636-63858fb40aad.png)
